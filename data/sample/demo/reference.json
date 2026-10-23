@@ -1,0 +1,49 @@
+{
+  "subject": "Digital Logic Design",
+  "code": "CS301",
+  "questions": [
+    {
+      "id": "Q1a",
+      "expect_syllabus": "IN",
+      "contains": "De Morgan",
+      "marks": 5
+    },
+    {
+      "id": "Q1b",
+      "expect_syllabus": "IN",
+      "contains": "101101",
+      "marks": 5,
+      "numeric_answer": "45"
+    },
+    {
+      "id": "Q2",
+      "expect_syllabus": "IN",
+      "contains": "ripple",
+      "marks": 10
+    },
+    {
+      "id": "Q3",
+      "expect_syllabus": "OUT",
+      "contains": "quantum annealing",
+      "marks": 10
+    },
+    {
+      "id": "Q4",
+      "expect_syllabus": "IN",
+      "contains": "SRAM",
+      "marks": 8
+    },
+    {
+      "id": "Q5a",
+      "expect_syllabus": "IN",
+      "contains": "K-map",
+      "marks": 10
+    },
+    {
+      "id": "Q5b",
+      "expect_syllabus": "PARTIAL",
+      "contains": "FPGA",
+      "marks": 10
+    }
+  ]
+}

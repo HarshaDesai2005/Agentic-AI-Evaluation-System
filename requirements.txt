@@ -1,0 +1,17 @@
+streamlit==1.44.1
+pymupdf==1.25.5
+python-docx==1.1.2
+reportlab==4.3.1
+pydantic==2.11.3
+pydantic-settings==2.8.1
+sentence-transformers==3.4.1
+numpy==2.2.4
+pillow==11.1.0
+pytesseract==0.3.13
+httpx==0.28.1
+python-dotenv==1.1.0
+pytest==8.3.5
+
+# Optional: install faiss-cpu if a Windows wheel is available for your Python.
+# The application falls back to a NumPy cosine index when FAISS is missing.
+# faiss-cpu==1.10.0

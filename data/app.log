@@ -1,0 +1,79 @@
+2026-10-18 16:05:31,919 INFO evalscheme: JSON generation failed after retries
+2026-10-18 16:05:32,318 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:05:32,394 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-18 16:05:32,448 INFO evalscheme: Stored upload job1_215a141880935a5b_secret.pdf (21 bytes)
+2026-10-18 16:05:32,550 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:05:32,565 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-18 16:05:32,587 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-18 16:05:32,812 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:06:59,017 INFO evalscheme: JSON generation failed after retries
+2026-10-18 16:06:59,291 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:06:59,403 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-18 16:06:59,473 INFO evalscheme: Stored upload job1_30df31c80f409062_secret.pdf (21 bytes)
+2026-10-18 16:06:59,577 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:06:59,591 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-18 16:06:59,616 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-18 16:06:59,839 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:08:08,042 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-18 16:08:08,234 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:08:08,340 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-18 16:14:16,064 INFO evalscheme: JSON generation failed after retries
+2026-10-18 16:14:16,305 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:14:16,368 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-18 16:14:16,419 INFO evalscheme: Stored upload job1_a5babacdcd893624_secret.pdf (21 bytes)
+2026-10-18 16:14:16,499 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-18 16:14:16,514 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-18 16:14:16,534 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-18 16:14:16,831 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 13:04:19,114 INFO evalscheme: Stored upload 4ed6249ec52c_998f9a008e0c4782_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 13:04:25,352 INFO evalscheme: Stored upload 4ed6249ec52c_91fa7237bbaad507_CC_Syllabus.pdf (127797 bytes)
+2026-10-23 13:04:25,410 INFO evalscheme: Stored upload 4ed6249ec52c_654bee97ee3b1f9e_Rajkumar_buyya_TB.pdf (10526109 bytes)
+2026-10-23 13:05:23,754 INFO evalscheme: Stored upload bcadc54514b3_de8c087dd2f8a588_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 13:05:43,850 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-23 13:06:15,093 INFO evalscheme: Stored upload 55ccc2fc45ea_816017eb8ed8bb2c_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 13:08:25,655 INFO evalscheme: Stored upload 8e256c3c4db9_5cbf13c6597b7dd1_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 13:08:25,768 INFO evalscheme: Stored upload 8e256c3c4db9_5cab94417cceb368_CC_Syllabus.pdf (127797 bytes)
+2026-10-23 13:08:25,867 INFO evalscheme: Stored upload 8e256c3c4db9_9947db8fd6d0242d_Rajkumar_buyya_TB.pdf (10526109 bytes)
+2026-10-23 13:08:33,829 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-23 13:09:23,774 INFO evalscheme: Indexed 2342 chunks from 4ed6249ec52c_654bee97ee3b1f9e_Rajkumar_buyya_TB.pdf
+2026-10-23 13:11:17,469 INFO evalscheme: Indexed 2342 chunks from 8e256c3c4db9_9947db8fd6d0242d_Rajkumar_buyya_TB.pdf
+2026-10-23 13:21:40,063 INFO evalscheme: Stored upload job1_ac023705a8f99084_secret.pdf (21 bytes)
+2026-10-23 13:21:40,527 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 13:21:40,572 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-23 13:21:40,615 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-23 13:35:26,461 INFO evalscheme: Stored upload 5696ac0907b0_28d869a39597697e_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 13:35:29,424 INFO evalscheme: Stored upload 5696ac0907b0_046e9251fb693c4d_CC_Syllabus.pdf (127797 bytes)
+2026-10-23 13:35:41,001 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-23 13:35:43,022 INFO evalscheme: Indexed 62 chunks from 5696ac0907b0_046e9251fb693c4d_CC_Syllabus.pdf
+2026-10-23 13:35:43,041 INFO evalscheme: Stored upload 5696ac0907b0_98c24bffd396e1f9_Rajkumar_buyya_TB.pdf (10526109 bytes)
+2026-10-23 13:42:25,958 INFO evalscheme: Stored upload 1e08031a9ac0_7d8c59f3c7c5f712_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 13:42:29,135 INFO evalscheme: Stored upload 1e08031a9ac0_95f801253383f522_CC_Syllabus.pdf (127797 bytes)
+2026-10-23 13:42:33,163 INFO evalscheme: Stored upload 1e08031a9ac0_24f7fc66ecf7d1b0_Rajkumar_buyya_TB.pdf (10526109 bytes)
+2026-10-23 14:46:14,727 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-23 15:01:53,846 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-23 15:02:43,188 INFO evalscheme: JSON generation failed after retries
+2026-10-23 15:02:43,516 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:02:43,624 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-23 15:02:43,738 INFO evalscheme: Stored upload job1_31592af44d7a6432_secret.pdf (21 bytes)
+2026-10-23 15:02:43,924 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:02:43,950 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-23 15:02:43,984 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-23 15:02:44,760 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:03:18,488 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:03:18,650 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-23 15:03:18,706 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-23 15:03:30,684 INFO evalscheme: JSON generation failed after retries
+2026-10-23 15:03:31,003 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:03:31,128 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-23 15:03:31,211 INFO evalscheme: Stored upload job1_9591fb5a327ca530_secret.pdf (21 bytes)
+2026-10-23 15:03:31,345 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:03:31,369 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-23 15:03:31,403 INFO evalscheme: Indexed 1 chunks from notes.docx
+2026-10-23 15:03:31,787 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:14:35,973 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2
+2026-10-23 15:14:36,415 INFO evalscheme: Indexed 6 chunks from syllabus.docx
+2026-10-23 15:14:36,526 INFO evalscheme: Indexed 4 chunks from textbook.pdf
+2026-10-23 15:36:35,299 INFO evalscheme: Stored upload 4ea507995c67_946554713a114ee7_CC_Question_Paper.pdf (83702 bytes)
+2026-10-23 15:36:38,273 INFO evalscheme: Stored upload 4ea507995c67_d6887ad000539e23_CC_Syllabus.pdf (127797 bytes)
+2026-10-23 15:36:42,078 INFO evalscheme: Stored upload 4ea507995c67_d06e71803fa1c2b1_Rajkumar_buyya_TB.pdf (10526109 bytes)
+2026-10-23 15:38:14,301 INFO evalscheme: Loaded embedding model sentence-transformers/all-MiniLM-L6-v2

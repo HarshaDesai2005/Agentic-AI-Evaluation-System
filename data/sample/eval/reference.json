@@ -1,0 +1,23 @@
+{
+  "questions": [
+    {
+      "id": "Q1",
+      "expect_syllabus": "IN",
+      "contains": "full adder",
+      "marks": 5
+    },
+    {
+      "id": "Q2",
+      "expect_syllabus": "IN",
+      "contains": "1101",
+      "marks": 5,
+      "numeric_answer": "13"
+    },
+    {
+      "id": "Q3",
+      "expect_syllabus": "OUT",
+      "contains": "neural",
+      "marks": 10
+    }
+  ]
+}

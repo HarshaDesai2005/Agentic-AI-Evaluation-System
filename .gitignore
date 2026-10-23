@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.local
+
+# Local application data (confidential)
+data/uploads/
+data/indexes/
+data/model_cache/
+data/app.db
+data/*.db
+data/*.db-journal
+outputs/
+*.faiss
+*.pkl
+
+# Hugging Face / model caches
+.cache/
+hf_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test / eval artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+reports/
+evaluation_runs/
+
+# Secrets
+*.pem
+credentials.json
+secrets.json
